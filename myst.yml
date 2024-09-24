@@ -1,12 +1,12 @@
 # See docs at: https://mystmd.org/guide/frontmatter
 version: 1
 project:
-  title: "More Than Just Words: Temporal Cortex Volume Correlates with Language Ability"
+  title: "Navigating the Void: How Parietal Cortex Volume Predicts Spatial Orientation in Zero Gravity"
   subtitle: ALien Brain ExtRacTion Analytics (ALBERTA) Consortium
   thebe:
     binder:
       url: https://mybinder.neurolibre.org
-      repo: agahkarakuzu/alienpaper3
+      repo: agahkarakuzu/alienpaper4
       ref: HEAD
   authors:
     - name: Alien Brain Consortium
@@ -19,13 +19,13 @@ project:
     - reproducible publishing
     - mystmd
     - next-gen preprints
-  github: https://github.com/agahkarakuzu/alienpaper3
+  github: https://github.com/agahkarakuzu/alienpaper4
   banner: static/banner.jpg
   venue: Neurolibre
   subject: Living Preprint
   numbering:
     headings: true
-  doi: 10.55458/neurolibre.alien3
+  doi: 10.55458/neurolibre.alien4
   open_access: true
   license: CC-BY-4.0
   abbreviations:
@@ -40,5 +40,5 @@ site:
 neurolibre:
   rees:
     runtime:
-      - name: agahkarakuzu/alienpaper3
+      - name: agahkarakuzu/alienpaper4
         ref: HEAD
